@@ -19,7 +19,6 @@ def square_array(array)
   puts final
   
   end
-  
 end
 
 p final
