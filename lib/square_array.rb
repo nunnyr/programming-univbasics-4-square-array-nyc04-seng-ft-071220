@@ -23,5 +23,6 @@ def square_array(array)
   
   end
   
- 
 end
+
+p final
