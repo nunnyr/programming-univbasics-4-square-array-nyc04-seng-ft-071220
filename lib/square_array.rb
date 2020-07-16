@@ -22,4 +22,3 @@ def square_array(array)
   p final
 end
 
-p final
