@@ -16,7 +16,7 @@ def square_array(array)
   
   
   
-  result = (array[count] ** array[count])
+  result = (array[count] ** 2)
   final.push(result)
   count += 1 
   
