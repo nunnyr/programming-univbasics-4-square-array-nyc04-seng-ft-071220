@@ -12,7 +12,7 @@ def square_array(array)
   
   p "this is counter #{count }"
   p "this is the element #{array[count]}"
-  p "this is numbers exponent #{array[count] ** array[count]}"
+ 
   
   
   
