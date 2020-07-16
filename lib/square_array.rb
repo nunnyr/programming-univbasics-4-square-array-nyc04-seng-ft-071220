@@ -9,12 +9,9 @@ def square_array(array)
   
   while count < array.length
   
-  
   p "this is counter #{count }"
   p "this is the element #{array[count]}"
  
-  
-  
   
   result = (array[count] ** 2)
   final.push(result)
