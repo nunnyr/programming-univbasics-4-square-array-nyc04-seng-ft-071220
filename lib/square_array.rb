@@ -7,7 +7,7 @@ def square_array(array)
   final = []
   
   
-  while count < array.length do
+  while count < array.length
   
   
   p "this is counter #{count }"
